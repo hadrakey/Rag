@@ -1,9 +1,16 @@
 # Rag
 
-This is a Rag using langchain on pdfs files. We use openai gpt3.5 here but wiil update this later with a mistral.
+This is a Rag using langchain on pdfs files. 
 
 ## Run 
 
+For openai API 
+
 ```
 python langchain_rag.py 
+```
+
+For mistral
+```
+python langchain_mistral.py 
 ```
